@@ -16,3 +16,7 @@ Gantt Chat (with ref to 20/9/2022)
 
 Class Diagram
 ![alt text](https://github.com/LawJunHao/ICT2201-Team-Project-T8/blob/main/ClassDiagram.png)
+
+Component diagram
+
+![alt text](https://user-images.githubusercontent.com/64019173/197340981-d6a0ef95-e271-44da-9d6a-a9d00db97424.png)
