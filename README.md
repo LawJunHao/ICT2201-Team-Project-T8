@@ -10,8 +10,12 @@ Use Case Model
 ![alt text](https://github.com/LawJunHao/ICT2201-Team-Project-T8/blob/main/Use%20Case%20Diagram.png)
 
 
-Gantt Chat (with ref to 20/9/2022)
+Gantt Chat (with ref to 20/9/2022) (For M1)
 ![alt text](https://github.com/LawJunHao/ICT2201-Team-Project-T8/blob/main/Gantt.JPG?raw=true)
+
+
+Gantt Chat (with ref to 28/10/2022) (For M2)
+![alt text]https://github.com/LawJunHao/ICT2201-Team-Project-T8/blob/main/Gantt%20Chart.png
 
 
 Class Diagram
