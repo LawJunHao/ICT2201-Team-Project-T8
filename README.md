@@ -15,8 +15,10 @@ Gantt Chat (with ref to 20/9/2022) (For M1)
 
 
 Gantt Chat (with ref to 28/10/2022) (For M2)
-![alt text](https://github.com/LawJunHao/ICT2201-Team-Project-T8/blob/main/Gantt%20Chart.JPG)
+![alt text](https://github.com/LawJunHao/ICT2201-Team-Project-T8/blob/main/Gantt%20Chart.png)
 
+Gantt Chat (with ref to 26/11/2022) (For M2)
+![alt text](https://github.com/LawJunHao/ICT2201-Team-Project-T8/blob/main/Gantt%20Chart.JPG)
 
 Class Diagram
 ![alt text](https://github.com/LawJunHao/ICT2201-Team-Project-T8/blob/main/ClassDiagram.png)
