@@ -1,6 +1,6 @@
 # ICT2201-Team-Project-T8
 
-Train Availability System Video Showcase: https://www.youtube.com/watch?v=9NbZh-HLNL0
+Train Availability System Video Showcase: https://youtu.be/3wE2nc8hzuw
 
 Wiki doko? Welcomez
 
